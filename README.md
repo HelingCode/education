@@ -1,4 +1,5 @@
 # 在线教育平台3
+# 在线教育平台2
 ## （1）在线教育系统，分为前台网站系统和后台运营平台，B2C模式。
 前台用户系统包括课程、讲师、问答、文章几大大部分，使用了微服务技术架构，前后端分离开发。
 后端的主要技术架构是：SpringBoot + SpringCloud + MyBatis-Plus + HttpClient + MySQL + Maven+EasyExcel+ nginx
